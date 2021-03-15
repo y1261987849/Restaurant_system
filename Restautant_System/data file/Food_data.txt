@@ -1,4 +1,0 @@
-1 Yuxiang_shredded_pork 25.00 8
-2 Kung_Pao_Chicken 26.00 6
-3 Dumplings 21.00 5
-4 Noodles 12.00 4
